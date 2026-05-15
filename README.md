@@ -10,7 +10,7 @@ Verifica diariamente o Boletim Interno do CBMPB e envia notificação no **Whats
 
 > Faça isso uma única vez. Leva menos de 2 minutos.
 
-1. Salve o número **+34 698 28 89 73** na agenda (pode chamar de "CallMeBot")
+1. Salve o número **+34 623 78 64 49** na agenda (pode chamar de "CallMeBot")
 2. Envie a mensagem exata pelo WhatsApp:
    ```
    I allow callmebot to send me messages
