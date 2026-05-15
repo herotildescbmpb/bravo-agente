@@ -64,7 +64,7 @@ README.md
 🔴 ATENÇÃO — Você foi mencionado!
 
 🔎 [524380]
-  → 524380 CAP HEROTILDES ...
+  → 524380 MAJOR HEROTILDES ...
 
 ─────────────────────
 🔗 https://bravo.bombeiros.pb.gov.br/...
@@ -94,14 +94,14 @@ Por padrão o agente busca pelos termos:
 
 ```
 524380, 524.380, HEROTILDES, ARAÚJO WANDERLEY,
-WANDERLEY DE ARAÚJO, DAL, DIRETORIA DE APOIO LOG, CAP HERO
+WANDERLEY DE ARAÚJO, DAL, DIRETORIA DE APOIO LOG, DIRETORIAS
 ```
 
 Para adicionar ou alterar, inclua a env var `BRAVO_TERMOS` no workflow:
 
 ```yaml
 env:
-  BRAVO_TERMOS: "524380,HEROTILDES,DAL,SOBREIRA,524.380-2"
+  BRAVO_TERMOS: "524380,HEROTILDES,DAL,524.380"
 ```
 
 ---
@@ -134,7 +134,7 @@ python boletim_checker.py
 
 ## ⏰ Agendamento
 
-O workflow roda automaticamente **seg–sáb às 08:00 BRT**.  
+O workflow roda automaticamente **seg–sEX às 20:00 BRT**.  
 Para alterar, edite a linha `cron` no workflow:
 
 ```yaml
