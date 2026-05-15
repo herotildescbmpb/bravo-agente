@@ -15,7 +15,7 @@ name: 📋 Boletim Diário CBMPB
 
 on:
   schedule:
-    - cron: '0 11 * * 1-6'    # 08:00 BRT (UTC-3), seg–sáb
+    - cron: '0 23 * * 1-5'    # 20:00 BRT (UTC-3), seg–sex
   workflow_dispatch:
     inputs:
       unidade:
