@@ -23,7 +23,7 @@ from pathlib import Path
 MATRICULA        = os.getenv("BRAVO_MATRICULA",   "524380")
 DATA_NASCIMENTO  = os.getenv("BRAVO_DATANASC",    "1990-10-06")   # YYYY-MM-DD
 UNIDADE          = os.getenv("BRAVO_UNIDADE",     "ccb")
-ANO              = os.getenv("BRAVO_ANO",         str(datetime.now().year))
+ANO              = os.getenv("BRAVO_ANO") or str(datetime.now().year)
 BASE_URL         = "https://bravo.bombeiros.pb.gov.br/bravoRH/boletins/"
 OUTPUT_DIR       = Path(os.getenv("BRAVO_OUTPUT_DIR", "boletins"))
 
