@@ -37,11 +37,14 @@ _termos_default  = ",".join([
     MATRICULA,
     "524.380",
     "HEROTILDES",
-    "ARAÚJO WANDERLEY",
+    "KEOMA",
     "WANDERLEY DE ARAÚJO",
     "DAL",
     "DIRETORIA DE APOIO LOG",
-    "CAP HERO",
+  "526.015",
+   "526015",
+    "524380",
+  "PONTO FACULTATIVO",
 ])
 TERMOS_BUSCA     = [t.strip() for t in os.getenv("BRAVO_TERMOS", _termos_default).split(",") if t.strip()]
 
