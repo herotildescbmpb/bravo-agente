@@ -50,8 +50,12 @@ GITHUB_STEP_SUMMARY = os.getenv("GITHUB_STEP_SUMMARY")
 # ─────────────────────────────────────────────────────────────────────────────
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; BravoBot/1.0)",
-    "Referer": BASE_URL,
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Referer":           BASE_URL,
+    "Accept":            "text/html, */*; q=0.01",
+    "Accept-Language":   "pt-BR,pt;q=0.9",
+    "X-Requested-With":  "XMLHttpRequest",
+    "Origin":            "https://bravo.bombeiros.pb.gov.br",
 }
 
 def log(msg):
@@ -299,8 +303,18 @@ def main():
 
     pdf_url = buscar_url_pdf(session, limit, boletim_pdf)
     if not pdf_url:
-        log("ERRO: URL do PDF não encontrada na resposta do servidor.")
-        sys.exit(1)
+        num = boletim_pdf.replace(".pdf", "")
+        log(f"Boletim nº {num} ainda não publicado — nada a fazer.")
+        if WA_NOTIFY_ALWAYS and WA_PHONE and WA_APIKEY:
+            hora = datetime.now().strftime("%d/%m/%Y %H:%M")
+            msg  = (
+                f"⏳ *BOLETIM CBMPB Nº {num}/{ANO}*\n"
+                f"📅 {hora} | QCG\n\n"
+                f"Boletim ainda não publicado no Bravo RH.\n"
+                f"Verificarei novamente amanhã às 20h."
+            )
+            _wa_send(msg)
+        sys.exit(0)
     log(f"URL do PDF: {pdf_url}")
 
     pdf_path = baixar_pdf(session, pdf_url, boletim_pdf)
