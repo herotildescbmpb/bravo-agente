@@ -41,10 +41,10 @@ _termos_default  = ",".join([
     "WANDERLEY DE ARAÚJO",
     "DAL",
     "DIRETORIA DE APOIO LOG",
-  "526.015",
-   "526015",
+    "526.015",
+    "526015",
     "524380",
-  "PONTO FACULTATIVO",
+    "PONTO FACULTATIVO",
 ])
 TERMOS_BUSCA     = [t.strip() for t in os.getenv("BRAVO_TERMOS", _termos_default).split(",") if t.strip()]
 
