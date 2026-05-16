@@ -18,10 +18,6 @@ on:
     - cron: '0 23 * * 1-5'    # 20:00 BRT (UTC-3), seg–sex
   workflow_dispatch:
     inputs:
-      unidade:
-        description: 'Unidade (ccb, bbm1, bbm2 ...)'
-        required: false
-        default: 'ccb'
       ano:
         description: 'Ano (deixe vazio para o ano atual)'
         required: false
@@ -43,7 +39,7 @@ jobs:
     env:
       BRAVO_MATRICULA:   ${{ secrets.BRAVO_MATRICULA }}
       BRAVO_DATANASC:    ${{ secrets.BRAVO_DATANASC }}
-      BRAVO_UNIDADE:     ${{ github.event.inputs.unidade || 'ccb' }}
+      BRAVO_UNIDADE:     ccb   # QCG — valor do formulário Bravo RH
       BRAVO_ANO:         ${{ github.event.inputs.ano || '' }}
       BRAVO_OUTPUT_DIR:  boletins
       WHATSAPP_PHONE:    ${{ secrets.WHATSAPP_PHONE }}
