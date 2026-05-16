@@ -1,0 +1,107 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Agente Bravo RH — Boletim Diário CBMPB com WhatsApp
+#
+# Roda seg–sáb às 08:00 BRT (11:00 UTC).
+# Também acionável manualmente em Actions > Run workflow.
+#
+# SECRETS NECESSÁRIOS (Settings > Secrets and variables > Actions):
+#   BRAVO_MATRICULA    → 524380
+#   BRAVO_DATANASC     → 1990-10-06
+#   WHATSAPP_PHONE     → +5583912345678  (seu número com DDI)
+#   WHATSAPP_APIKEY    → obtido no CallMeBot (ver README)
+# ─────────────────────────────────────────────────────────────────────────────
+
+name: 📋 Boletim Diário CBMPB
+
+on:
+  schedule:
+    - cron: '0 23 * * 1-5'    # 20:00 BRT (UTC-3), seg–sex
+  workflow_dispatch:
+    inputs:
+      ano:
+        description: 'Ano (deixe vazio para o ano atual)'
+        required: false
+        default: ''
+      notify_always:
+        description: 'Notificar mesmo sem menções? (true/false)'
+        required: false
+        default: 'true'
+
+permissions:
+  contents: write
+
+jobs:
+  verificar-boletim:
+    name: 🔍 Verificar e Notificar
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    env:
+      BRAVO_MATRICULA:   ${{ secrets.BRAVO_MATRICULA }}
+      BRAVO_DATANASC:    ${{ secrets.BRAVO_DATANASC }}
+      BRAVO_UNIDADE:     ccb   # QCG — valor do formulário Bravo RH
+      BRAVO_ANO:         ${{ github.event.inputs.ano || '' }}
+      BRAVO_OUTPUT_DIR:  boletins
+      WHATSAPP_PHONE:    ${{ secrets.WHATSAPP_PHONE }}
+      WHATSAPP_APIKEY:   ${{ secrets.WHATSAPP_APIKEY }}
+      WA_NOTIFY_ALWAYS:  ${{ github.event.inputs.notify_always || 'true' }}
+
+    steps:
+      # ── 1. Checkout ────────────────────────────────────────────────────────
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+
+      # ── 2. Python ──────────────────────────────────────────────────────────
+      - name: 🐍 Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      # ── 3. Dependências ────────────────────────────────────────────────────
+      - name: 📦 Instalar dependências
+        run: |
+          sudo apt-get install -y poppler-utils -q
+          pip install -q requests pypdf
+
+      # ── 4. Executar agente ────────────────────────────────────────────────
+      - name: 🤖 Executar agente Bravo RH
+        id: agente
+        run: python boletim_checker.py
+
+      # ── 5. Salvar PDF como artefato do Actions ────────────────────────────
+      - name: 📎 Salvar PDF como artefato
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: boletim-${{ steps.agente.outputs.boletim_num }}-${{ env.BRAVO_ANO || '2026' }}
+          path: boletins/*.pdf
+          retention-days: 90
+
+      # ── 6. Commitar PDF no repositório ────────────────────────────────────
+      - name: 💾 Commitar PDF no repositório
+        if: success()
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add boletins/ || true
+          git diff --cached --quiet && echo "Nada novo para commitar." || \
+            git commit -m "📋 Boletim nº ${{ steps.agente.outputs.boletim_num }}/${{ env.BRAVO_ANO || '2026' }} — $(date +'%d/%m/%Y')"
+          git push || true
+
+      # ── 7. WhatsApp de FALHA (se o agente quebrar) ────────────────────────
+      - name: 🚨 Notificar falha no WhatsApp
+        if: failure()
+        env:
+          WHATSAPP_PHONE:  ${{ secrets.WHATSAPP_PHONE }}
+          WHATSAPP_APIKEY: ${{ secrets.WHATSAPP_APIKEY }}
+        run: |
+          python - <<'PYEOF'
+          import os, urllib.parse, requests
+          phone  = os.getenv("WHATSAPP_PHONE", "")
+          apikey = os.getenv("WHATSAPP_APIKEY", "")
+          if phone and apikey:
+              msg = "🚨 *ERRO — Agente Bravo RH*\nFalha ao verificar o boletim CBMPB.\nVerifique o Actions: ${{ github.server_url }}/${{ github.repository }}/actions"
+              url = f"https://api.callmebot.com/whatsapp.php?phone={phone}&text={urllib.parse.quote(msg)}&apikey={apikey}"
+              requests.get(url, timeout=10)
+          PYEOF
