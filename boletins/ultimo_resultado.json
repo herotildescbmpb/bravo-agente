@@ -1,13 +1,9 @@
 {
-  "boletim": "89",
+  "boletim": "91",
   "ano": "2026",
-  "data_verificacao": "2026-05-19T00:06:36.860894",
-  "mencoes_encontradas": true,
-  "mencoes": {
-    "DAL": [
-      "Instrução Normativa nº 001/2023 – DAL/CBMPB, aprovada pela Portaria nº"
-    ]
-  },
+  "data_verificacao": "2026-05-20T00:06:38.531465",
+  "mencoes_encontradas": false,
+  "mencoes": {},
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
     "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
