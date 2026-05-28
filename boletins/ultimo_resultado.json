@@ -1,20 +1,11 @@
 {
-  "boletim": "96",
+  "boletim": "97",
   "ano": "2026",
-  "data_verificacao": "2026-05-27T00:04:49.051648",
-  "mencoes_encontradas": true,
-  "mencoes": {
-    "DAL": [
-      "3.3.1.1 NOTA Nº 15351 - DAL",
-      "NOTA Nº 055/2026 - QCG/DAL",
-      "3.3.1.2 NOTA Nº 15387 - DAL",
-      "NOTA Nº 056/2026 - QCG/DAL",
-      "- Manter contato com a DAL para adquirir cópia do empenho, termo de"
-    ]
-  },
+  "data_verificacao": "2026-05-28T00:00:21.127588",
+  "mencoes_encontradas": false,
+  "mencoes": {},
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
-    "4. JUSTIÇA E DISCIPLINA"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
   ]
 }
