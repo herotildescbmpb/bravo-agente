@@ -1,11 +1,17 @@
 {
-  "boletim": "97",
+  "boletim": "99",
   "ano": "2026",
-  "data_verificacao": "2026-05-29T00:12:03.032808",
-  "mencoes_encontradas": false,
-  "mencoes": {},
+  "data_verificacao": "2026-05-30T00:09:54.363681",
+  "mencoes_encontradas": true,
+  "mencoes": {
+    "DAL": [
+      "horas-aula, na modalidade presencial, referentes à disciplina Educação",
+      "(trinta) horas-aula, na modalidade presencial, referentes à disciplina"
+    ]
+  },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
+    "4. JUSTIÇA E DISCIPLINA"
   ]
 }
