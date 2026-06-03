@@ -1,12 +1,15 @@
 {
-  "boletim": "99",
+  "boletim": "101",
   "ano": "2026",
-  "data_verificacao": "2026-06-02T00:14:06.580397",
+  "data_verificacao": "2026-06-03T00:27:22.352806",
   "mencoes_encontradas": true,
   "mencoes": {
     "DAL": [
-      "horas-aula, na modalidade presencial, referentes à disciplina Educação",
-      "(trinta) horas-aula, na modalidade presencial, referentes à disciplina"
+      "Modalidade             **Não se aplica**",
+      "3.5.1.1 NOTA Nº 15733 - DAL",
+      "NOTA Nº 058/2026 - QCG/DAL",
+      "- Manter contato com a DAL para adquirir cópia do empenho, termo de",
+      "- Agendar e acompanhar junto à DAL o recebimento dos bens"
     ]
   },
   "secoes_publicadas": [
