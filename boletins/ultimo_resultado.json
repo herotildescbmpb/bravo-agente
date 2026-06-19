@@ -1,17 +1,9 @@
 {
-  "boletim": "101",
+  "boletim": "110",
   "ano": "2026",
-  "data_verificacao": "2026-06-03T00:27:22.352806",
-  "mencoes_encontradas": true,
-  "mencoes": {
-    "DAL": [
-      "Modalidade             **Não se aplica**",
-      "3.5.1.1 NOTA Nº 15733 - DAL",
-      "NOTA Nº 058/2026 - QCG/DAL",
-      "- Manter contato com a DAL para adquirir cópia do empenho, termo de",
-      "- Agendar e acompanhar junto à DAL o recebimento dos bens"
-    ]
-  },
+  "data_verificacao": "2026-06-19T00:26:43.390939",
+  "mencoes_encontradas": false,
+  "mencoes": {},
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
     "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
