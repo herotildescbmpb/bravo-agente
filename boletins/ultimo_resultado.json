@@ -1,9 +1,22 @@
 {
-  "boletim": "110",
+  "boletim": "111",
   "ano": "2026",
-  "data_verificacao": "2026-06-19T00:26:43.390939",
-  "mencoes_encontradas": false,
-  "mencoes": {},
+  "data_verificacao": "2026-06-20T00:09:05.177132",
+  "mencoes_encontradas": true,
+  "mencoes": {
+    "524380": [
+      "524380 MAJ HEROTILDES                                   19/06 07:30 a 07:30 (24h0min)"
+    ],
+    "HEROTILDES": [
+      "524380 MAJ HEROTILDES                                   19/06 07:30 a 07:30 (24h0min)"
+    ],
+    "DAL": [
+      "3.4.2.1 NOTA Nº 16711 - DAL",
+      "NOTA Nº 065/2026 - QCG/DAL",
+      "modalidades do bombeiro militar;",
+      "confundindo com medalha, comenda ou condecoração, destinando-se à"
+    ]
+  },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
     "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
