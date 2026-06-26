@@ -1,19 +1,15 @@
 {
-  "boletim": "112",
+  "boletim": "113",
   "ano": "2026",
-  "data_verificacao": "2026-06-25T00:13:11.240048",
+  "data_verificacao": "2026-06-26T00:09:28.393864",
   "mencoes_encontradas": true,
   "mencoes": {
-    "524380": [
-      "524380 MAJ HEROTILDES                                     22/06 07:30 a 07:30 (24h0min)"
-    ],
-    "HEROTILDES": [
-      "524380 MAJ HEROTILDES                                     22/06 07:30 a 07:30 (24h0min)"
+    "DAL": [
+      "523741 3º SGT ADALBERTO       Mergulhador               26/06 18:00 a 06:00 (12h0min)"
     ]
   },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
-    "4. JUSTIÇA E DISCIPLINA"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
   ]
 }
