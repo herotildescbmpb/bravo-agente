@@ -1,23 +1,11 @@
 {
-  "boletim": "114",
+  "boletim": "115",
   "ano": "2026",
-  "data_verificacao": "2026-06-30T00:04:05.329511",
-  "mencoes_encontradas": true,
-  "mencoes": {
-    "DAL": [
-      "523741 3º SGT ADALBERTO         Mergulhador              27/06 06:00 a 18:00 (12h0min)",
-      "Modalidade             **Não se aplica**",
-      "Modalidade             **Não se aplica**",
-      "Modalidade             **Não se aplica**",
-      "Modalidade             **Não se aplica**"
-    ],
-    "526015": [
-      "526015-9 MAJ BM QOEM ALEX CAMPOS ARAUJO"
-    ]
-  },
+  "data_verificacao": "2026-07-01T00:05:32.568759",
+  "mencoes_encontradas": false,
+  "mencoes": {},
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
-    "1. QOEM"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
   ]
 }
