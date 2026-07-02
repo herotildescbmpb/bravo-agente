@@ -1,11 +1,20 @@
 {
-  "boletim": "115",
+  "boletim": "116",
   "ano": "2026",
-  "data_verificacao": "2026-07-01T00:05:32.568759",
-  "mencoes_encontradas": false,
-  "mencoes": {},
+  "data_verificacao": "2026-07-02T00:06:57.301752",
+  "mencoes_encontradas": true,
+  "mencoes": {
+    "DAL": [
+      "3.2.1.2 NOTA Nº 17163 - DAL",
+      "NOTA Nº 068/2026 - QCG/DAL"
+    ],
+    "526015": [
+      "526015-9 MAJ BM QOEM ALEX CAMPOS ARAUJO"
+    ]
+  },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
+    "4. JUSTIÇA E DISCIPLINA"
   ]
 }
