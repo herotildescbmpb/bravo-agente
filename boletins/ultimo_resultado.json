@@ -1,15 +1,20 @@
 {
-  "boletim": "116",
+  "boletim": "117",
   "ano": "2026",
-  "data_verificacao": "2026-07-02T00:06:57.301752",
+  "data_verificacao": "2026-07-03T00:04:58.404389",
   "mencoes_encontradas": true,
   "mencoes": {
-    "DAL": [
-      "3.2.1.2 NOTA Nº 17163 - DAL",
-      "NOTA Nº 068/2026 - QCG/DAL"
+    "KEOMA": [
+      "CEL 521291 KEOMA DO NASCIMENTO SILVA",
+      "521291-0 CEL BM QOEM KEOMA DO NASCIMENTO SILVA"
     ],
-    "526015": [
-      "526015-9 MAJ BM QOEM ALEX CAMPOS ARAUJO"
+    "DAL": [
+      "de Apoio Logístico - DAL DO CBMPB.",
+      "Local de Trabalho     DAL",
+      "Local de Trabalho       DAL"
+    ],
+    "DIRETORIA DE APOIO LOG": [
+      "Diretoria de Apoio Logístico DO CBMPB. 2. Como consequência, concedo o"
     ]
   },
   "secoes_publicadas": [
