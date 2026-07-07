@@ -1,20 +1,29 @@
 {
-  "boletim": "117",
+  "boletim": "121",
   "ano": "2026",
-  "data_verificacao": "2026-07-03T00:04:58.404389",
+  "data_verificacao": "2026-07-07T23:58:00.429288",
   "mencoes_encontradas": true,
   "mencoes": {
     "KEOMA": [
-      "CEL 521291 KEOMA DO NASCIMENTO SILVA",
-      "521291-0 CEL BM QOEM KEOMA DO NASCIMENTO SILVA"
+      "(a) - KEOMA DO NASCIMENTO SILVA - CEL QOEM",
+      "(a) - KEOMA DO NASCIMENTO SILVA - CEL QOEM",
+      "(a) - KEOMA DO NASCIMENTO SILVA - CEL QOEM",
+      "(a) - KEOMA DO NASCIMENTO SILVA - CEL QOEM",
+      "(a) - KEOMA DO NASCIMENTO SILVA - CEL QOEM"
     ],
     "DAL": [
-      "de Apoio Logístico - DAL DO CBMPB.",
-      "Local de Trabalho     DAL",
+      "Modalidade            **Não se aplica**",
+      "apresentou na DIRETORIA DE APOIO LOGÍSTICO - DAL DO CBMPB, no dia",
+      "Local de Trabalho       DAL",
+      "apresentou na DIRETORIA DE APOIO LOGÍSTICO - DAL DO CBMPB, no dia",
       "Local de Trabalho       DAL"
     ],
     "DIRETORIA DE APOIO LOG": [
-      "Diretoria de Apoio Logístico DO CBMPB. 2. Como consequência, concedo o"
+      "apresentou na DIRETORIA DE APOIO LOGÍSTICO - DAL DO CBMPB, no dia",
+      "apresentou na DIRETORIA DE APOIO LOGÍSTICO - DAL DO CBMPB, no dia",
+      "Diretoria de Apoio Logístico - DAL, no dia 1º de julho de 2026",
+      "Especificações e Registros da Diretoria de Apoio Logístico - DAL/1.",
+      "Especificações e Registros da Diretoria de Apoio Logístico - DAL/1."
     ]
   },
   "secoes_publicadas": [
