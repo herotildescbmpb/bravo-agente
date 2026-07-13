@@ -1,16 +1,19 @@
 {
-  "boletim": "124",
+  "boletim": "125",
   "ano": "2026",
-  "data_verificacao": "2026-07-10T23:57:39.270080",
+  "data_verificacao": "2026-07-13T23:54:20.083839",
   "mencoes_encontradas": true,
   "mencoes": {
     "DAL": [
-      "11/2014 do CBMPB, em havendo enquadramento diverso da modalidade"
+      "3.2.2.1 NOTA Nº 18165 - DAL",
+      "NOTA Nº 073/2026 - QCG/DAL",
+      "3.2.2.2 NOTA Nº 18215 - DAL",
+      "NOTA Nº 074/2026 - QCG/DAL",
+      "- Manter contato com a DAL para adquirir cópia do empenho, termo de"
     ]
   },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
-    "4. JUSTIÇA E DISCIPLINA"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
   ]
 }
