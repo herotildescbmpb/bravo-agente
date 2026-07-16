@@ -1,19 +1,20 @@
 {
-  "boletim": "126",
+  "boletim": "128",
   "ano": "2026",
-  "data_verificacao": "2026-07-15T23:57:59.076215",
+  "data_verificacao": "2026-07-16T23:59:05.256877",
   "mencoes_encontradas": true,
   "mencoes": {
     "DAL": [
+      "Modalidade             Bacharelado",
+      "TORNAR PÚBLICO a apresentação do Diploma de Concessão da Medalha de",
       "Modalidade             **Não se aplica**",
-      "3.3.1.2 NOTA Nº 18329 - DAL",
-      "NOTA Nº 075/2026 - QCG/DAL",
-      "- Manter contato com a DAL para adquirir cópia do empenho, termo de",
-      "- Agendar e acompanhar junto à DAL o recebimento dos bens"
+      "Curso                 Diploma de Concessão da Medalha de Mérito",
+      "Observação            Diploma de Concessão da Medalha de Mérito"
     ]
   },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
+    "4. JUSTIÇA E DISCIPLINA"
   ]
 }
