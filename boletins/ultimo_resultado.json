@@ -1,15 +1,18 @@
 {
-  "boletim": "128",
+  "boletim": "131",
   "ano": "2026",
-  "data_verificacao": "2026-07-16T23:59:05.256877",
+  "data_verificacao": "2026-07-21T23:56:03.508823",
   "mencoes_encontradas": true,
   "mencoes": {
+    "KEOMA": [
+      "QOEM KEOMA DO NASCIMENTO SILVA, Diretor de Apoio Logístico, contida no"
+    ],
     "DAL": [
-      "Modalidade             Bacharelado",
-      "TORNAR PÚBLICO a apresentação do Diploma de Concessão da Medalha de",
-      "Modalidade             **Não se aplica**",
-      "Curso                 Diploma de Concessão da Medalha de Mérito",
-      "Observação            Diploma de Concessão da Medalha de Mérito"
+      "3.4.1.1 NOTA Nº 18785 - DAL",
+      "NOTA Nº 079/2026 - QCG/DAL",
+      "- Manter contato com a DAL para adquirir cópia do empenho, termo de",
+      "- Agendar e acompanhar junto à DAL o recebimento dos bens",
+      "- Encaminhar para a DAL formalmente por meio de Ofício a nota fiscal"
     ]
   },
   "secoes_publicadas": [
