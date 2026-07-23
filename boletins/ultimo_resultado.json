@@ -1,22 +1,16 @@
 {
-  "boletim": "132",
+  "boletim": "133",
   "ano": "2026",
-  "data_verificacao": "2026-07-23T00:00:00.753179",
+  "data_verificacao": "2026-07-23T23:59:57.082693",
   "mencoes_encontradas": true,
   "mencoes": {
-    "KEOMA": [
-      "KEOMA DO NASCIMENTO SILVA – CORONEL QOBM"
-    ],
     "DAL": [
-      "3.1.1.1 NOTA Nº 18567 - DAL",
-      "NOTA Nº 078/2026 - QCG/DAL",
-      "3.1.1.2 NOTA Nº 18885 - DAL",
-      "NOTA Nº 080/2026 - QCG/DAL",
-      "- Manter contato com a DAL para adquirir cópia do empenho, termo de"
+      "Modalidade             **Não se aplica**"
     ]
   },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
+    "4. JUSTIÇA E DISCIPLINA"
   ]
 }
