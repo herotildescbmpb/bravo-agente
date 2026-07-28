@@ -1,11 +1,21 @@
 {
-  "boletim": "133",
+  "boletim": "136",
   "ano": "2026",
-  "data_verificacao": "2026-07-23T23:59:57.082693",
+  "data_verificacao": "2026-07-28T23:57:44.040759",
   "mencoes_encontradas": true,
   "mencoes": {
+    "524380": [
+      "524380 MAJ HEROTILDES                                 29/07 07:30 a 07:30 (24h0min)"
+    ],
+    "HEROTILDES": [
+      "524380 MAJ HEROTILDES                                 29/07 07:30 a 07:30 (24h0min)"
+    ],
     "DAL": [
-      "Modalidade             **Não se aplica**"
+      "3.5.2.2 NOTA Nº 19311 - DAL",
+      "NOTA Nº 082/2026 - QCG/DAL",
+      "- Manter contato com a DAL para adquirir cópia do empenho, termo de",
+      "- Agendar e acompanhar junto à DAL o recebimento dos bens",
+      "- Encaminhar para a DAL formalmente por meio de Ofício a nota fiscal"
     ]
   },
   "secoes_publicadas": [
