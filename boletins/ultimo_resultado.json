@@ -1,21 +1,21 @@
 {
-  "boletim": "136",
+  "boletim": "137",
   "ano": "2026",
-  "data_verificacao": "2026-07-28T23:57:44.040759",
+  "data_verificacao": "2026-07-29T23:58:50.641193",
   "mencoes_encontradas": true,
   "mencoes": {
     "524380": [
-      "524380 MAJ HEROTILDES                                 29/07 07:30 a 07:30 (24h0min)"
+      "524380-7 MAJ BM QOEM HEROTILDES OLIVEIRA WANDERLEY DE ARAUJO"
     ],
     "HEROTILDES": [
-      "524380 MAJ HEROTILDES                                 29/07 07:30 a 07:30 (24h0min)"
+      "524380-7 MAJ BM QOEM HEROTILDES OLIVEIRA WANDERLEY DE ARAUJO"
     ],
     "DAL": [
-      "3.5.2.2 NOTA Nº 19311 - DAL",
-      "NOTA Nº 082/2026 - QCG/DAL",
-      "- Manter contato com a DAL para adquirir cópia do empenho, termo de",
-      "- Agendar e acompanhar junto à DAL o recebimento dos bens",
-      "- Encaminhar para a DAL formalmente por meio de Ofício a nota fiscal"
+      "Modalidade            **Não se aplica**",
+      "Modalidade             **Não se aplica**",
+      "Modalidade",
+      "3.4.1.2 NOTA Nº 19415 - DAL",
+      "NOTA Nº 083/2026 - QCG/DAL"
     ]
   },
   "secoes_publicadas": [
