@@ -1,21 +1,21 @@
 {
-  "boletim": "137",
+  "boletim": "138",
   "ano": "2026",
-  "data_verificacao": "2026-07-29T23:58:50.641193",
+  "data_verificacao": "2026-07-31T00:01:08.164356",
   "mencoes_encontradas": true,
   "mencoes": {
-    "524380": [
-      "524380-7 MAJ BM QOEM HEROTILDES OLIVEIRA WANDERLEY DE ARAUJO"
-    ],
-    "HEROTILDES": [
-      "524380-7 MAJ BM QOEM HEROTILDES OLIVEIRA WANDERLEY DE ARAUJO"
-    ],
     "DAL": [
-      "Modalidade            **Não se aplica**",
-      "Modalidade             **Não se aplica**",
-      "Modalidade",
-      "3.4.1.2 NOTA Nº 19415 - DAL",
-      "NOTA Nº 083/2026 - QCG/DAL"
+      "3.3.2.1 NOTA Nº 19525 - DAL",
+      "Apoio Logístico - DAL.",
+      "Logístico (DAL) o recebimento dos bens, caso a entrega ainda não tenha",
+      "• encaminhar formalmente à DAL, preferencialmente por meio de Ofício",
+      "• comunicar imediatamente à Diretoria de Apoio Logístico (DAL)"
+    ],
+    "DIRETORIA DE APOIO LOG": [
+      "• comunicar imediatamente à Diretoria de Apoio Logístico (DAL)",
+      "• comunicar imediatamente à Diretoria de Apoio Logístico (DAL)",
+      "Diretoria de Apoio Logístico (DAL), para adoção das providências",
+      "Plataforma Azimute 360º e comunicar à Diretoria de Apoio Logístico"
     ]
   },
   "secoes_publicadas": [
