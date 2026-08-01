@@ -1,26 +1,11 @@
 {
-  "boletim": "138",
+  "boletim": "139",
   "ano": "2026",
-  "data_verificacao": "2026-07-31T00:01:08.164356",
-  "mencoes_encontradas": true,
-  "mencoes": {
-    "DAL": [
-      "3.3.2.1 NOTA Nº 19525 - DAL",
-      "Apoio Logístico - DAL.",
-      "Logístico (DAL) o recebimento dos bens, caso a entrega ainda não tenha",
-      "• encaminhar formalmente à DAL, preferencialmente por meio de Ofício",
-      "• comunicar imediatamente à Diretoria de Apoio Logístico (DAL)"
-    ],
-    "DIRETORIA DE APOIO LOG": [
-      "• comunicar imediatamente à Diretoria de Apoio Logístico (DAL)",
-      "• comunicar imediatamente à Diretoria de Apoio Logístico (DAL)",
-      "Diretoria de Apoio Logístico (DAL), para adoção das providências",
-      "Plataforma Azimute 360º e comunicar à Diretoria de Apoio Logístico"
-    ]
-  },
+  "data_verificacao": "2026-08-01T00:01:43.994893",
+  "mencoes_encontradas": false,
+  "mencoes": {},
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
-    "4. JUSTIÇA E DISCIPLINA"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
   ]
 }
