@@ -1,9 +1,20 @@
 {
-  "boletim": "140",
+  "boletim": "141",
   "ano": "2026",
-  "data_verificacao": "2026-08-05T00:02:16.061701",
-  "mencoes_encontradas": false,
-  "mencoes": {},
+  "data_verificacao": "2026-08-05T23:59:43.051236",
+  "mencoes_encontradas": true,
+  "mencoes": {
+    "DAL": [
+      "523741 3º SGT ADALBERTO        Mergulhador              06/08 18:00 a 06:00 (12h0min)",
+      "Modalidade",
+      "classificadas na Diretoria de Apoio Logísitco - DAL, no dia 31 de",
+      "3.2.1.2 NOTA Nº 19819 - DAL",
+      "NOTA Nº 088/2026 - QCG/DAL"
+    ],
+    "DIRETORIA DE APOIO LOG": [
+      "classificadas na Diretoria de Apoio Logísitco - DAL, no dia 31 de"
+    ]
+  },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
     "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
