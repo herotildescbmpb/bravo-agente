@@ -1,23 +1,11 @@
 {
-  "boletim": "142",
+  "boletim": "143",
   "ano": "2026",
-  "data_verificacao": "2026-08-07T01:41:23.058756",
-  "mencoes_encontradas": true,
-  "mencoes": {
-    "KEOMA": [
-      "CEL QOEM 521 . 291 - 0 KEOMA DO NASCIMENTO SILVA"
-    ],
-    "DAL": [
-      "523741 3º SGT ADALBERTO       Mergulhador              07/08 06:00 a 18:00 (12h0min)",
-      "* 2º TEN LUCAS FREIRE DANTAS VIDAL, MATRÍCULA 242.862-8;",
-      "3.2.1.2 NOTA Nº 19515 - DAL",
-      "NOTA Nº 084/2026 - QCG/DAL",
-      "3.2.1.3 NOTA Nº 19815 - DAL"
-    ]
-  },
+  "data_verificacao": "2026-08-07T23:32:52.408260",
+  "mencoes_encontradas": false,
+  "mencoes": {},
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
-    "4. JUSTIÇA E DISCIPLINA"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
   ]
 }
