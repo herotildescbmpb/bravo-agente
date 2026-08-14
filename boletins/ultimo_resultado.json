@@ -1,20 +1,28 @@
 {
-  "boletim": "147",
+  "boletim": "148",
   "ano": "2026",
-  "data_verificacao": "2026-08-13T23:40:19.026046",
+  "data_verificacao": "2026-08-14T23:20:37.751737",
   "mencoes_encontradas": true,
   "mencoes": {
+    "KEOMA": [
+      "CEL QOEM Matr. 521.291-0 KEOMA DO NASCIMENTO SILVA",
+      "521291-0 CEL BM QOEM KEOMA DO NASCIMENTO SILVA",
+      "CEL QOEM Matr. 521.291-0 KEOMA DO NASCIMENTO SILVA",
+      "521291-0 CEL BM QOEM KEOMA DO NASCIMENTO SILVA"
+    ],
     "DAL": [
-      "3.2.1.1 NOTA Nº 20485 - DAL",
-      "NOTA Nº 091/2026 - QCG/DAL",
-      "- Manter contato com a DAL para adquirir cópia do empenho, termo de",
-      "- Agendar e acompanhar junto à DAL o recebimento dos bens",
-      "- Encaminhar para a DAL formalmente por meio de Ofício a nota fiscal"
+      "Modalidade",
+      "Modalidade             Ensino Técnico",
+      "Modalidade",
+      "Modalidade",
+      "Modalidade"
+    ],
+    "DIRETORIA DE APOIO LOG": [
+      "obtenção da relação oficial junto à Diretoria de Apoio Logístico,"
     ]
   },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
-    "4. JUSTIÇA E DISCIPLINA"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
   ]
 }
