@@ -1,28 +1,26 @@
 {
-  "boletim": "148",
+  "boletim": "149",
   "ano": "2026",
-  "data_verificacao": "2026-08-14T23:20:37.751737",
+  "data_verificacao": "2026-08-17T23:21:30.544953",
   "mencoes_encontradas": true,
   "mencoes": {
-    "KEOMA": [
-      "CEL QOEM Matr. 521.291-0 KEOMA DO NASCIMENTO SILVA",
-      "521291-0 CEL BM QOEM KEOMA DO NASCIMENTO SILVA",
-      "CEL QOEM Matr. 521.291-0 KEOMA DO NASCIMENTO SILVA",
-      "521291-0 CEL BM QOEM KEOMA DO NASCIMENTO SILVA"
+    "524380": [
+      "524380 MAJ HEROTILDES                                15/08 07:30 a 07:30 (24h0min)"
+    ],
+    "HEROTILDES": [
+      "524380 MAJ HEROTILDES                                15/08 07:30 a 07:30 (24h0min)"
     ],
     "DAL": [
-      "Modalidade",
-      "Modalidade             Ensino Técnico",
-      "Modalidade",
-      "Modalidade",
-      "Modalidade"
-    ],
-    "DIRETORIA DE APOIO LOG": [
-      "obtenção da relação oficial junto à Diretoria de Apoio Logístico,"
+      "* 2º TEN LUCAS FREIRE DANTAS VIDAL, MATRÍCULA 242.862-8;",
+      "3.4.1.2 NOTA Nº 20625 - DAL",
+      "NOTA Nº 094/2026 - QCG/DAL",
+      "- Manter contato com a DAL para adquirir cópia do empenho, termo de",
+      "- Agendar e acompanhar junto à DAL o recebimento dos bens"
     ]
   },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
+    "4. JUSTIÇA E DISCIPLINA"
   ]
 }
