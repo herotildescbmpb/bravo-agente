@@ -1,21 +1,28 @@
 {
-  "boletim": "149",
+  "boletim": "150",
   "ano": "2026",
-  "data_verificacao": "2026-08-17T23:21:30.544953",
+  "data_verificacao": "2026-08-18T23:20:46.491388",
   "mencoes_encontradas": true,
   "mencoes": {
     "524380": [
-      "524380 MAJ HEROTILDES                                15/08 07:30 a 07:30 (24h0min)"
+      "524380-7 MAJ BM QOEM HEROTILDES OLIVEIRA WANDERLEY DE ARAUJO"
     ],
     "HEROTILDES": [
-      "524380 MAJ HEROTILDES                                15/08 07:30 a 07:30 (24h0min)"
+      "524380-7 MAJ BM QOEM HEROTILDES OLIVEIRA WANDERLEY DE ARAUJO"
+    ],
+    "KEOMA": [
+      "CEL QOEM Matr. 521.291-0 KEOMA DO NASCIMENTO SILVA",
+      "521291-0 CEL BM QOEM KEOMA DO NASCIMENTO SILVA"
     ],
     "DAL": [
-      "* 2º TEN LUCAS FREIRE DANTAS VIDAL, MATRÍCULA 242.862-8;",
-      "3.4.1.2 NOTA Nº 20625 - DAL",
-      "NOTA Nº 094/2026 - QCG/DAL",
-      "- Manter contato com a DAL para adquirir cópia do empenho, termo de",
-      "- Agendar e acompanhar junto à DAL o recebimento dos bens"
+      "Modalidade",
+      "Modalidade",
+      "Modalidade",
+      "Modalidade",
+      "Modalidade"
+    ],
+    "DIRETORIA DE APOIO LOG": [
+      "apresentou na DIRETORIA DE APOIO LOGISTICO no dia 10/08/2026, CONFORME"
     ]
   },
   "secoes_publicadas": [
