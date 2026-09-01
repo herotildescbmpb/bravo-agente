@@ -1,19 +1,18 @@
 {
-  "boletim": "159",
+  "boletim": "160",
   "ano": "2026",
-  "data_verificacao": "2026-08-29T04:01:41.363566",
+  "data_verificacao": "2026-09-01T01:40:48.269478",
   "mencoes_encontradas": true,
   "mencoes": {
     "DAL": [
-      "Diretorias|DAL",
-      "2.1.2.1 NOTA Nº 21889 - DAL",
-      "3.2.2.2 NOTA Nº 21613 - DAL",
-      "NOTA Nº 101/2026 - QCG/DAL",
-      "- Manter contato com a DAL para adquirir cópia do empenho, termo de"
+      "modalidade mais branda de punição disciplinar, mostra-se insuficiente"
     ]
   },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
+    "1. DA FORMA",
+    "2. DOS FATOS",
+    "3. DA SOLUÇÃO"
   ]
 }
