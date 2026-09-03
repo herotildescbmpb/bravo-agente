@@ -1,18 +1,20 @@
 {
-  "boletim": "160",
+  "boletim": "162",
   "ano": "2026",
-  "data_verificacao": "2026-09-01T01:40:48.269478",
+  "data_verificacao": "2026-09-03T00:58:04.321159",
   "mencoes_encontradas": true,
   "mencoes": {
     "DAL": [
-      "modalidade mais branda de punição disciplinar, mostra-se insuficiente"
+      "3.1.1.1 NOTA Nº 22283 - DAL",
+      "NOTA Nº 107/2026 - QCG/DAL",
+      "Uniforme: Túnica Branca com medalhas.",
+      "4.1.1.1 NOTA Nº 22277 - DAL",
+      "PORTARIA Nº 011/2026 - DAL/QCG"
     ]
   },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
     "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
-    "1. DA FORMA",
-    "2. DOS FATOS",
-    "3. DA SOLUÇÃO"
+    "4. JUSTIÇA E DISCIPLINA"
   ]
 }
