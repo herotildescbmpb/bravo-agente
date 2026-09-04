@@ -1,20 +1,29 @@
 {
-  "boletim": "162",
+  "boletim": "163",
   "ano": "2026",
-  "data_verificacao": "2026-09-03T00:58:04.321159",
+  "data_verificacao": "2026-09-04T00:48:43.527275",
   "mencoes_encontradas": true,
   "mencoes": {
+    "KEOMA": [
+      "QOEM KEOMA DO NASCIMENTO SILVA, Diretor de Apoio Logísitco, contida no"
+    ],
     "DAL": [
-      "3.1.1.1 NOTA Nº 22283 - DAL",
-      "NOTA Nº 107/2026 - QCG/DAL",
-      "Uniforme: Túnica Branca com medalhas.",
-      "4.1.1.1 NOTA Nº 22277 - DAL",
-      "PORTARIA Nº 011/2026 - DAL/QCG"
+      "4.3.1 MEDALHA",
+      "agraciado com a “Medalha do Pacificador”, concedida pelo Secretário",
+      "Medalha                ** Não se aplica **",
+      "Anexo: 1 - medalha do pacificador - Cel Araújo",
+      "AUTORIZAR o uso da \"Medalha do Amigo do Corpo de Bombeiros Militar de"
     ]
   },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
     "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
+    "1. IDENTIFICAÇÃO DO INCIDENTE",
+    "2. ACOLHIMENTO INICIAL",
+    "3. OBSERVAÇÃO DE SINAIS DE ALERTA",
+    "4. MEDIDAS DE APOIO IMEDIATO",
+    "5. COMUNICAÇÃO E ACIONAMENTO DE APOIO",
+    "6. OFERTA DE APOIO E ORIENTAÇÃO",
     "4. JUSTIÇA E DISCIPLINA"
   ]
 }
