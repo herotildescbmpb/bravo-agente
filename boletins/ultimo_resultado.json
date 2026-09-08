@@ -1,29 +1,17 @@
 {
-  "boletim": "163",
+  "boletim": "164",
   "ano": "2026",
-  "data_verificacao": "2026-09-05T00:37:45.328819",
+  "data_verificacao": "2026-09-08T00:55:20.681599",
   "mencoes_encontradas": true,
   "mencoes": {
-    "KEOMA": [
-      "QOEM KEOMA DO NASCIMENTO SILVA, Diretor de Apoio Logísitco, contida no"
-    ],
     "DAL": [
-      "4.3.1 MEDALHA",
-      "agraciado com a “Medalha do Pacificador”, concedida pelo Secretário",
-      "Medalha                ** Não se aplica **",
-      "Anexo: 1 - medalha do pacificador - Cel Araújo",
-      "AUTORIZAR o uso da \"Medalha do Amigo do Corpo de Bombeiros Militar de"
+      "3.4.1.3 NOTA Nº 22459 - DAL",
+      "NOTA Nº 108/2026 - QCG/DAL",
+      "3.4.1.4 NOTA Nº 22601 - DAL"
     ]
   },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
-    "1. IDENTIFICAÇÃO DO INCIDENTE",
-    "2. ACOLHIMENTO INICIAL",
-    "3. OBSERVAÇÃO DE SINAIS DE ALERTA",
-    "4. MEDIDAS DE APOIO IMEDIATO",
-    "5. COMUNICAÇÃO E ACIONAMENTO DE APOIO",
-    "6. OFERTA DE APOIO E ORIENTAÇÃO",
-    "4. JUSTIÇA E DISCIPLINA"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
   ]
 }
