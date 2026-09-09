@@ -1,17 +1,24 @@
 {
-  "boletim": "164",
+  "boletim": "165",
   "ano": "2026",
-  "data_verificacao": "2026-09-08T00:55:20.681599",
+  "data_verificacao": "2026-09-09T01:03:51.458829",
   "mencoes_encontradas": true,
   "mencoes": {
+    "KEOMA": [
+      "(a) - KEOMA DO NASCIMENTO SILVA - CEL QOEM",
+      "(a) - KEOMA DO NASCIMENTO SILVA - CEL QOEM"
+    ],
     "DAL": [
-      "3.4.1.3 NOTA Nº 22459 - DAL",
-      "NOTA Nº 108/2026 - QCG/DAL",
-      "3.4.1.4 NOTA Nº 22601 - DAL"
+      "3.2.1.1 NOTA Nº 22715 - DAL",
+      "NOTA Nº 013/2026 - QCG/DAL",
+      "CAEO/1 - DAL do CBMPB.",
+      "3.2.1.2 NOTA Nº 22717 - DAL",
+      "NOTA Nº 014/2026 - QCG/DAL"
     ]
   },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
+    "4. JUSTIÇA E DISCIPLINA"
   ]
 }
