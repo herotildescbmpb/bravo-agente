@@ -1,24 +1,22 @@
 {
-  "boletim": "165",
+  "boletim": "166",
   "ano": "2026",
-  "data_verificacao": "2026-09-09T01:03:51.458829",
+  "data_verificacao": "2026-09-10T00:52:20.953010",
   "mencoes_encontradas": true,
   "mencoes": {
     "KEOMA": [
-      "(a) - KEOMA DO NASCIMENTO SILVA - CEL QOEM",
-      "(a) - KEOMA DO NASCIMENTO SILVA - CEL QOEM"
+      "QOEM KEOMA DO NASCIMENTO SILVA, Diretor de Apoio Logísitco, contida no"
     ],
     "DAL": [
-      "3.2.1.1 NOTA Nº 22715 - DAL",
-      "NOTA Nº 013/2026 - QCG/DAL",
-      "CAEO/1 - DAL do CBMPB.",
-      "3.2.1.2 NOTA Nº 22717 - DAL",
-      "NOTA Nº 014/2026 - QCG/DAL"
+      "Modalidade             **Não se aplica**",
+      "Modalidade             **Não se aplica**",
+      "Modalidade             **Não se aplica**",
+      "Modalidade             **Não se aplica**",
+      "Modalidade             Especialização"
     ]
   },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
-    "4. JUSTIÇA E DISCIPLINA"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
   ]
 }
