@@ -1,18 +1,15 @@
 {
-  "boletim": "166",
+  "boletim": "167",
   "ano": "2026",
-  "data_verificacao": "2026-09-10T00:52:20.953010",
+  "data_verificacao": "2026-09-11T00:50:21.495741",
   "mencoes_encontradas": true,
   "mencoes": {
-    "KEOMA": [
-      "QOEM KEOMA DO NASCIMENTO SILVA, Diretor de Apoio Logísitco, contida no"
-    ],
     "DAL": [
-      "Modalidade             **Não se aplica**",
-      "Modalidade             **Não se aplica**",
-      "Modalidade             **Não se aplica**",
-      "Modalidade             **Não se aplica**",
-      "Modalidade             Especialização"
+      "3.1.1.2 NOTA Nº 22599 - DAL",
+      "NOTA Nº 109/2026 - QCG/DAL",
+      "- Manter contato com a DAL para adquirir cópia do empenho, termo de",
+      "- Agendar e acompanhar junto à DAL o recebimento dos bens",
+      "- Encaminhar para a DAL formalmente por meio de Ofício a nota fiscal"
     ]
   },
   "secoes_publicadas": [
