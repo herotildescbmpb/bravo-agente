@@ -1,16 +1,26 @@
 {
-  "boletim": "170",
+  "boletim": "171",
   "ano": "2026",
-  "data_verificacao": "2026-09-16T01:07:23.255275",
+  "data_verificacao": "2026-09-17T01:06:06.647850",
   "mencoes_encontradas": true,
   "mencoes": {
-    "KEOMA": [
-      "11. CORONEL QOEM 521.291 – 0 KEOMA DO NASCIMENTO SILVA;",
-      "521291-0 CEL BM QOEM KEOMA DO NASCIMENTO SILVA"
+    "DAL": [
+      "2. DA MODALIDADE, PERÍODO E OBJETIVO",
+      "2.1. Modalidade: Virtual, ministrado por meio da plataforma Academia",
+      "Diretoria de Apoio Logísitco - DAL, 15 (quinze) dias de férias"
+    ],
+    "DIRETORIA DE APOIO LOG": [
+      "Diretoria de Apoio Logísitco - DAL, 15 (quinze) dias de férias"
     ]
   },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
+    "3. DO CUSTEIO E DA CERTIFICAÇÃO",
+    "4. DOS REQUISITOS PARA CANDIDATURA",
+    "5. DA DOCUMENTAÇÃO EXIGIDA",
+    "6. DO ENCAMINHAMENTO E PRAZOS",
+    "7. DAS DISPOSIÇÕES FINAIS E INFORMAÇÕES ADICIONAIS",
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
+    "4. JUSTIÇA E DISCIPLINA"
   ]
 }
