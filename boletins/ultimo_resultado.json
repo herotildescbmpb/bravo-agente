@@ -1,25 +1,19 @@
 {
-  "boletim": "171",
+  "boletim": "173",
   "ano": "2026",
-  "data_verificacao": "2026-09-18T01:03:51.342462",
+  "data_verificacao": "2026-09-19T00:59:31.466370",
   "mencoes_encontradas": true,
   "mencoes": {
     "DAL": [
-      "2. DA MODALIDADE, PERÍODO E OBJETIVO",
-      "2.1. Modalidade: Virtual, ministrado por meio da plataforma Academia",
-      "Diretoria de Apoio Logísitco - DAL, 15 (quinze) dias de férias"
-    ],
-    "DIRETORIA DE APOIO LOG": [
-      "Diretoria de Apoio Logísitco - DAL, 15 (quinze) dias de férias"
+      "Modalidade",
+      "Modalidade",
+      "Modalidade",
+      "Modalidade",
+      "Modalidade"
     ]
   },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. DO CUSTEIO E DA CERTIFICAÇÃO",
-    "4. DOS REQUISITOS PARA CANDIDATURA",
-    "5. DA DOCUMENTAÇÃO EXIGIDA",
-    "6. DO ENCAMINHAMENTO E PRAZOS",
-    "7. DAS DISPOSIÇÕES FINAIS E INFORMAÇÕES ADICIONAIS",
     "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
     "4. JUSTIÇA E DISCIPLINA"
   ]
