@@ -1,12 +1,19 @@
 {
-  "boletim": "175",
+  "boletim": "176",
   "ano": "2026",
-  "data_verificacao": "2026-09-23T01:15:49.462031",
+  "data_verificacao": "2026-09-24T01:07:30.521075",
   "mencoes_encontradas": true,
   "mencoes": {
+    "KEOMA": [
+      "QOEM KEOMA DO NASCIMENTO SILVA, Diretor de Apoio Logísitco, contida no",
+      "QOEM KEOMA DO NASCIMENTO SILVA, Diretor de Apoio Logísitco, contida no"
+    ],
     "DAL": [
-      "Lindalva Cristina Marcelino da Silva, Gestora, CPF 018.787.844-71,",
-      "Lindalva Cristina Marcelino da Silva"
+      "44932/2026 decorreram de erro material na seleção da modalidade",
+      "3.2.2.3 NOTA Nº 23706 - DAL",
+      "NOTA Nº 117/2026 - QCG/DAL",
+      "- Manter contato com a DAL para adquirir cópia do empenho, termo de",
+      "No caso de aquisição de bens:- Agendar e acompanhar junto à DAL o"
     ]
   },
   "secoes_publicadas": [
