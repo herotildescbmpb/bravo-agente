@@ -1,18 +1,20 @@
 {
-  "boletim": "178",
+  "boletim": "179",
   "ano": "2026",
-  "data_verificacao": "2026-09-26T01:12:47.947065",
+  "data_verificacao": "2026-09-29T02:29:24.932470",
   "mencoes_encontradas": true,
   "mencoes": {
     "DAL": [
-      "523741 3º SGT ADALBERTO         Mergulhador              26/09 06:00 a 18:00 (12h0min)",
-      "Resgate (CSR) do CBMPB, realizado nas modalidades EAD e presencial,",
-      "3.1.2.2 NOTA Nº 23938 - DAL",
-      "NOTA Nº 118/2026 - QCG/DAL"
+      "Modalidade            MBA",
+      "Modalidade",
+      "3.4.1.1 NOTA Nº 23950 - DAL",
+      "NOTA Nº 119/2026 - QCG/DAL",
+      "- Manter contato com a DAL para adquirir cópia do empenho, termo de"
     ]
   },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
+    "4. JUSTIÇA E DISCIPLINA"
   ]
 }
