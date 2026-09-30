@@ -1,20 +1,15 @@
 {
-  "boletim": "179",
+  "boletim": "180",
   "ano": "2026",
-  "data_verificacao": "2026-09-29T02:29:24.932470",
+  "data_verificacao": "2026-09-30T01:51:18.069237",
   "mencoes_encontradas": true,
   "mencoes": {
     "DAL": [
-      "Modalidade            MBA",
-      "Modalidade",
-      "3.4.1.1 NOTA Nº 23950 - DAL",
-      "NOTA Nº 119/2026 - QCG/DAL",
-      "- Manter contato com a DAL para adquirir cópia do empenho, termo de"
+      "Diretorias|DAL"
     ]
   },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
-    "4. JUSTIÇA E DISCIPLINA"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
   ]
 }
