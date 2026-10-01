@@ -1,15 +1,18 @@
 {
-  "boletim": "180",
+  "boletim": "181",
   "ano": "2026",
-  "data_verificacao": "2026-09-30T01:51:18.069237",
+  "data_verificacao": "2026-10-01T01:49:05.565930",
   "mencoes_encontradas": true,
   "mencoes": {
     "DAL": [
-      "Diretorias|DAL"
+      "3.2.2.1 NOTA Nº 24218 - DAL",
+      "Apoio Logístico - DAL.",
+      "3.2.2.2 NOTA Nº 24226 - DAL"
     ]
   },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
+    "4. JUSTIÇA E DISCIPLINA"
   ]
 }
