@@ -1,15 +1,26 @@
 {
-  "boletim": "184",
+  "boletim": "185",
   "ano": "2026",
-  "data_verificacao": "2026-10-06T02:42:25.482406",
+  "data_verificacao": "2026-10-07T02:07:52.259871",
   "mencoes_encontradas": true,
   "mencoes": {
+    "524380": [
+      "524380-7 MAJ BM QOEM HEROTILDES OLIVEIRA WANDERLEY DE ARAUJO"
+    ],
+    "HEROTILDES": [
+      "524380-7 MAJ BM QOEM HEROTILDES OLIVEIRA WANDERLEY DE ARAUJO"
+    ],
     "DAL": [
-      "1. 2º TEN Lucas Freire Dantas Vidal – Matrícula: 242.862-8"
+      "Modalidade",
+      "classificados na Diretoria de Apoio Logísitco - DAL, no dia 1º de"
+    ],
+    "DIRETORIA DE APOIO LOG": [
+      "classificados na Diretoria de Apoio Logísitco - DAL, no dia 1º de"
     ]
   },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
+    "4. JUSTIÇA E DISCIPLINA"
   ]
 }
