@@ -1,24 +1,16 @@
 {
-  "boletim": "186",
+  "boletim": "190",
   "ano": "2026",
-  "data_verificacao": "2026-10-08T02:33:38.884315",
+  "data_verificacao": "2026-10-16T01:00:26.801592",
   "mencoes_encontradas": true,
   "mencoes": {
     "DAL": [
       "Modalidade",
-      "Modalidade",
-      "Modalidade",
-      "Diretoria de Apoio Logísitco - DAL, um período de 20 (vinte) dias de",
-      "Diretoria de Apoio Logísitco - DAL, um período de 20 (vinte) dias de"
-    ],
-    "DIRETORIA DE APOIO LOG": [
-      "Diretoria de Apoio Logísitco - DAL, um período de 20 (vinte) dias de",
-      "Diretoria de Apoio Logísitco - DAL, um período de 20 (vinte) dias de"
+      "Modalidade"
     ]
   },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
-    "4. JUSTIÇA E DISCIPLINA"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
   ]
 }
