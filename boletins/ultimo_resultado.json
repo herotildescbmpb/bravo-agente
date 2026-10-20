@@ -1,21 +1,24 @@
 {
-  "boletim": "191",
+  "boletim": "193",
   "ano": "2026",
-  "data_verificacao": "2026-10-17T01:05:25.073950",
+  "data_verificacao": "2026-10-20T01:35:53.782264",
   "mencoes_encontradas": true,
   "mencoes": {
     "KEOMA": [
-      "CEL QOEM 521.291 – 0 KEOMA DO NASCIMENTO SILVA; DAL",
-      "521291-0 CEL BM QOEM KEOMA DO NASCIMENTO SILVA"
+      "(a) - KEOMA DO NASCIMENTO SILVA - CEL QOEM",
+      "(a) - KEOMA DO NASCIMENTO SILVA - CEL QOEM"
     ],
     "DAL": [
-      "3.2.2.1 NOTA Nº 25312 - DAL",
-      "atividades relacionadas ao contrato de locação de veículos (CCG,DAL e",
-      "CEL QOEM 521.291 – 0 KEOMA DO NASCIMENTO SILVA; DAL"
+      "3.4.1.1 NOTA Nº 24782 - DAL",
+      "NOTA Nº 123/2026 - QCG/DAL",
+      "3.4.1.2 NOTA Nº 25581 - DAL",
+      "NOTA No 123/2026 - QCG/DAL",
+      "3.4.1.3 NOTA Nº 25593 - DAL"
     ]
   },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
+    "4. JUSTIÇA E DISCIPLINA"
   ]
 }
