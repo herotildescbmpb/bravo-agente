@@ -1,18 +1,12 @@
 {
-  "boletim": "194",
+  "boletim": "200",
   "ano": "2026",
-  "data_verificacao": "2026-10-21T01:19:13.014028",
-  "mencoes_encontradas": true,
-  "mencoes": {
-    "DAL": [
-      "Diretoria de Apoio Logísitco - DAL, no dia 06 de outubro de 2026"
-    ],
-    "DIRETORIA DE APOIO LOG": [
-      "Diretoria de Apoio Logísitco - DAL, no dia 06 de outubro de 2026"
-    ]
-  },
+  "data_verificacao": "2026-10-29T02:08:01.920467",
+  "mencoes_encontradas": false,
+  "mencoes": {},
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
+    "4. JUSTIÇA E DISCIPLINA"
   ]
 }
