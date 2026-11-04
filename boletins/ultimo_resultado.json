@@ -1,9 +1,13 @@
 {
-  "boletim": "200",
+  "boletim": "201",
   "ano": "2026",
-  "data_verificacao": "2026-11-03T03:50:36.222259",
-  "mencoes_encontradas": false,
-  "mencoes": {},
+  "data_verificacao": "2026-11-04T02:55:21.277973",
+  "mencoes_encontradas": true,
+  "mencoes": {
+    "DAL": [
+      "Modalidade                 Bacharelado"
+    ]
+  },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
     "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
