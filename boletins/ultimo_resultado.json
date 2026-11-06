@@ -1,16 +1,18 @@
 {
-  "boletim": "201",
+  "boletim": "203",
   "ano": "2026",
-  "data_verificacao": "2026-11-05T03:12:33.714078",
+  "data_verificacao": "2026-11-06T03:13:51.349622",
   "mencoes_encontradas": true,
   "mencoes": {
     "DAL": [
-      "Modalidade                 Bacharelado"
+      "3.3.2.1 NOTA Nº 26536 - DAL",
+      "NOTA Nº 133/2026 - QCG/DAL",
+      "3.3.2.2 NOTA Nº 26546 - DAL",
+      "NOTA Nº 134/2026 - QCG/DAL"
     ]
   },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
-    "4. JUSTIÇA E DISCIPLINA"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
   ]
 }
