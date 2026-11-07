@@ -1,18 +1,26 @@
 {
-  "boletim": "203",
+  "boletim": "204",
   "ano": "2026",
-  "data_verificacao": "2026-11-06T03:13:51.349622",
+  "data_verificacao": "2026-11-07T02:32:55.364323",
   "mencoes_encontradas": true,
   "mencoes": {
+    "524380": [
+      "524380 MAJ HEROTILDES                                                    09/11 07:30 a 07:30 (24h0min)"
+    ],
+    "HEROTILDES": [
+      "524380 MAJ HEROTILDES                                                    09/11 07:30 a 07:30 (24h0min)"
+    ],
     "DAL": [
-      "3.3.2.1 NOTA Nº 26536 - DAL",
-      "NOTA Nº 133/2026 - QCG/DAL",
-      "3.3.2.2 NOTA Nº 26546 - DAL",
-      "NOTA Nº 134/2026 - QCG/DAL"
+      "Resgate e Salvamento – 2026 - CBMPB, nas modalidades Busca Urbana vivo",
+      "3.4.2.2 NOTA Nº 26680 - DAL",
+      "NOTA Nº 135/2026 - QCG/DAL",
+      "- Manter contato com a DAL para adquirir cópia do empenho, termo de",
+      "No caso de aquisição de bens:- Agendar e acompanhar junto à DAL o"
     ]
   },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
+    "4. JUSTIÇA E DISCIPLINA"
   ]
 }
