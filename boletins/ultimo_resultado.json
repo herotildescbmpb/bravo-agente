@@ -1,22 +1,12 @@
 {
-  "boletim": "208",
+  "boletim": "209",
   "ano": "2026",
-  "data_verificacao": "2026-11-14T02:55:05.183852",
-  "mencoes_encontradas": true,
-  "mencoes": {
-    "KEOMA": [
-      "521291-0 CEL BM QOEM KEOMA DO NASCIMENTO SILVA"
-    ],
-    "DAL": [
-      "532.632-0 DALILA OLIVEIRA RAMALHO DE MEDEIROS SILVA; e SD BM 532.816-1",
-      "3.4.1.2 NOTA Nº 27050 - DAL",
-      "NOTA Nº 138/2026 - QCG/DAL",
-      "- Manter contato com a DAL para adquirir cópia do empenho, termo de",
-      "No caso de aquisição de bens:- Agendar e acompanhar junto à DAL o"
-    ]
-  },
+  "data_verificacao": "2026-11-17T04:57:48.677444",
+  "mencoes_encontradas": false,
+  "mencoes": {},
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
+    "4. JUSTIÇA E DISCIPLINA"
   ]
 }
