@@ -1,9 +1,17 @@
 {
-  "boletim": "209",
+  "boletim": "211",
   "ano": "2026",
-  "data_verificacao": "2026-11-17T04:57:48.677444",
-  "mencoes_encontradas": false,
-  "mencoes": {},
+  "data_verificacao": "2026-11-18T04:01:42.602521",
+  "mencoes_encontradas": true,
+  "mencoes": {
+    "DAL": [
+      "Modalidade                 **Não se aplica**",
+      "Observação                 Curso realizado na modalidade de ensino",
+      "Modalidade                 **Não se aplica**",
+      "Observação                 Curso realizado na modalidade de ensino",
+      "Modalidade                 **Não se aplica**"
+    ]
+  },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
     "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
