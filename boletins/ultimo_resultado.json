@@ -1,23 +1,19 @@
 {
-  "boletim": "212",
+  "boletim": "213",
   "ano": "2026",
-  "data_verificacao": "2026-11-19T03:59:00.877136",
+  "data_verificacao": "2026-11-20T03:52:42.336527",
   "mencoes_encontradas": true,
   "mencoes": {
     "DAL": [
-      "Modalidade",
-      "3.2.1.1 NOTA Nº 27476 - DAL",
-      "NOTA Nº 141/2026 - QCG/DAL",
-      "3.2.1.2 NOTA Nº 27488 - DAL",
-      "3.2.1.3 NOTA Nº 27490 - DAL"
-    ],
-    "DIRETORIA DE APOIO LOG": [
-      "PBDoc: direcionar o processo à Diretoria de Apoio Logístico (DAL) do"
+      "Modalidade                 **Não se aplica**",
+      "Observação                 Realizado na modalidade de ensino presencial,",
+      "Modalidade                 **Não se aplica**",
+      "Observação                 Realizado na modalidade de ensino presencial,",
+      "Modalidade                 **Não se aplica**"
     ]
   },
   "secoes_publicadas": [
     "2. ENSINO E INSTRUÇÃO",
-    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS",
-    "4. JUSTIÇA E DISCIPLINA"
+    "3. ASSUNTOS GERAIS E ADMINISTRATIVOS"
   ]
 }
