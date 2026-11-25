@@ -1,15 +1,12 @@
 {
-  "boletim": "214",
+  "boletim": "215",
   "ano": "2026",
-  "data_verificacao": "2026-11-24T06:46:50.776700",
+  "data_verificacao": "2026-11-25T05:14:53.758908",
   "mencoes_encontradas": true,
   "mencoes": {
     "DAL": [
-      "Modalidade                    **Não se aplica**",
-      "Observação                    Curso realizado na modalidade de ensino",
-      "3.3.1.2 NOTA Nº 27636 - DAL",
-      "NOTA Nº 142/2026 - QCG/DAL",
-      "3.3.1.3 NOTA Nº 27644 - DAL"
+      "Modalidade",
+      "Modalidade"
     ]
   },
   "secoes_publicadas": [
