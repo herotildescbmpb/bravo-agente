@@ -1,12 +1,21 @@
 {
-  "boletim": "215",
+  "boletim": "216",
   "ano": "2026",
-  "data_verificacao": "2026-11-25T05:14:53.758908",
+  "data_verificacao": "2026-11-26T04:42:38.501664",
   "mencoes_encontradas": true,
   "mencoes": {
+    "524380": [
+      "7 5243807 HEROTILDES OLIVEIRA WANDERLEY DE ARAUJO"
+    ],
+    "HEROTILDES": [
+      "7 5243807 HEROTILDES OLIVEIRA WANDERLEY DE ARAUJO"
+    ],
     "DAL": [
-      "Modalidade",
-      "Modalidade"
+      "3.5.2.1 NOTA Nº 27758 - DAL",
+      "NOTA Nº 144/2026 - QCG/DAL",
+      "4.1.1 MEDALHA",
+      "CONCEDE A “MEDALHA DO VALOR BOMBEIRO MILITAR – 1ºGRAU”",
+      "Concede a “MEDALHA DO VALOR BOMBEIRO MILITAR – 1ºGRAU” e dá outras"
     ]
   },
   "secoes_publicadas": [
